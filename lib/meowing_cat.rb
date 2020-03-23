@@ -8,7 +8,7 @@ class Cat
   def name 
     @name 
   end 
-  def .meow
+  def meow
      puts "meow!"
   end 
     
