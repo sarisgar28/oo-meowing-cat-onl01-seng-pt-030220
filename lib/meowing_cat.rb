@@ -1,6 +1,6 @@
 ## code your solution here. 
 class Cat 
-  attr_accessor :name 
+  attr_accessor :name  
   
   def name=(m)
    @name = m 
@@ -8,7 +8,9 @@ class Cat
   def name 
     @name 
   end 
-  def meow 
+  def cat 
+    puts "meow!"
+  end 
     
 end
  
