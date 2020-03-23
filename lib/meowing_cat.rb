@@ -5,8 +5,10 @@ class Cat
   def name=(m)
    @name = m 
   end 
-  
+  def name 
+    @name 
+  end 
 end
-cat.name = meow 
+ 
 
 
