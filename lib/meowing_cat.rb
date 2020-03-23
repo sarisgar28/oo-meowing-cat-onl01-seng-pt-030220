@@ -8,9 +8,9 @@ class Cat
   def name 
     @name 
   end 
-  
+  def meow 
+    
 end
  
-meow.Cat.new 
-meow.name = "meow!"
+
 
