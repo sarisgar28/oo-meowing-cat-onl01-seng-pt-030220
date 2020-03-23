@@ -9,7 +9,7 @@ class Cat
     @name 
   end 
   def name
-    .meow 
+    @name = "meow!"
   end 
     
 end
