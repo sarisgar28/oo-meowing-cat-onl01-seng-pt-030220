@@ -8,8 +8,8 @@ class Cat
   def name 
     @name 
   end 
-  def name
-    @name = "meow!"
+  def .meow
+     puts "meow!"
   end 
     
 end
